@@ -51,7 +51,7 @@ Pre-requisites to run application are Java, Maven and Git.
 Steps to build and run locally:
 * Open commandline
 * Create a new directory called "onlinestorebillprocessinterview" 
-* Clone repository using following command=>   git clone https://github.com/satishpeyyety/onlinestorebillprocessinterview.git .
+* Clone repository using following command=>   git clone https://github.com/SatishPolimera/onlinestorebillprocessinterview
 * Build the executable jar using maven=> mvn package  
 * Go to target folder => cd target
 * Run following command to start the server on port 8080=> java -jar onlinestorebillprocessinterviewApplication-0.0.1-SNAPSHOT.jar 
